@@ -1,21 +1,24 @@
-# 💫 About Me:
-I'm a passionate Full Stack Web Developer with experience in React, Spring Boot, and SQL. I enjoy building web applications that solve real-world problems and continuously learning new technologies.<br><br>🚀 Current Project<br>🧠 AI Resume Builder<br>I'm currently working on an AI-powered resume builder that generates personalized, professional resumes using intelligent prompts and user inputs.<br>Tech Stack: React | Spring Boot | OpenAI | MySQL<br><br>🛠️ Tech Stack<br>Frontend: React, Angular, HTML, CSS, JavaScript<br><br>Backend: Spring Boot, REST APIs<br><br>Database: MySQL, PostgreSQL<br><br>Tools: Git, GitHub, Postman, VS Code<br><br>🌱 Learning Goals<br>Enhancing AI integration in web apps<br><br>Exploring cloud deployment (Render, AWS, etc.)<br><br>Improving system design and scalability skills<br><br>📫 How to reach me:<br>LinkedIn: [Your LinkedIn Profile]<br><br>GitHub: github.com/akshay-0-1<br><br>
+<h1 align="center">Hi 👋, I'm Akshay Alave</h1>
+<h3 align="center">I'm a passionate Full Stack Web Developer with experience in React, Spring Boot, and SQL. I enjoy building web applications that solve real-world problems and continuously learning new technologies.</h3>
 
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=akshay-0-1" alt="akshay-0-1" /></a> </p>
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/01akshayalave) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Akshay Alave) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:akshayalave123@gmail.com) 
+- 🔭 I’m currently working on **Ai_Resume_Builder**
 
-# 💻 Tech Stack:
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=akshay-0-1&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=akshay-0-1&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=akshay-0-1&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+- 🌱 I’m currently learning **Spring boot**
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=akshay-0-1&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+- 📫 How to reach me **akshayalave123@gmail.com**
 
----
-[![](https://visitcount.itsvg.in/api?id=akshay-0-1&icon=0&color=1)](https://visitcount.itsvg.in)
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/akshay alave" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="akshay alave" height="30" width="40" /></a>
+<a href="https://instagram.com/01akshayalave" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="01akshayalave" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/akshayalave" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="akshayalave" height="30" width="40" /></a>
+</p>
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a> </p>
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=akshay-0-1&show_icons=true&locale=en&layout=compact" alt="akshay-0-1" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=akshay-0-1&show_icons=true&locale=en" alt="akshay-0-1" /></p>
