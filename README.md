@@ -291,6 +291,34 @@ To ensure stats update:
 - Check remote: git remote -v
 - Manual push: git add . && git commit -m "update" && git push
 
-For GitHub Actions auto-update, add this workflow:
-.github/workflows/update-readme.yml
+For Snake Animation GitHub Action:
+Create .github/workflows/snake.yml:
+
+name: Generate Snake
+
+on:
+  schedule:
+    - cron: "0 */12 * * *"
+  workflow_dispatch:
+  push:
+    branches:
+    - main
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v2
+      - uses: Platane/snk@v2
+        with:
+          github_user_name: akshay-0-1
+          outputs: |
+            dist/github-contribution-grid-snake.svg
+            dist/github-contribution-grid-snake-dark.svg
+      - uses: crazy-max/ghaction-github-pages@v2.6.0
+        with:
+          target_branch: output
+          build_dir: dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 -->
